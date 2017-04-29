@@ -1,0 +1,16 @@
+{
+  "name": "rcon-interactive",
+  "version": "0.0.1",
+  "description": "Interactive rcon cli client",
+  "main": "index.js",
+  "keywords": [
+    "rcon"
+  ],
+  "bin" : "./index.js",
+  "author": "DerEnderKeks",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "modern-rcon": "^1.0.3"
+  }
+}
